@@ -17,4 +17,8 @@ Menu Productos con las opcion de Añadir, Eliminar, Editar Clientes
 Menu Empleados con las opcion de Añadir, Eliminar, Editar Clientes
 ![MenuEmpleados](https://github.com/Nathsit/AplicacionCRUD/assets/142270807/49a7bcb6-6711-4c71-91c3-4268ebd517ae)
 
+En la capa Datos encontraran el script utilizado para crear la BD, cabe mencionar que la base de datos esta alojada en azure,
+por lo que se puede ejecutar el programa sin inconvenientes
+
+![image](https://github.com/Nathsit/AplicacionCRUD/assets/142270807/f4509f3a-e28b-434f-b739-e9ca5e512e91)
 
